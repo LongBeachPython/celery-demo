@@ -1,0 +1,6 @@
+celery==3.1.23
+flower==0.9.1
+jupyter==1.0.0
+matplotlib==1.5.3
+Pillow==3.3.1
+pynamodb==1.5.3
